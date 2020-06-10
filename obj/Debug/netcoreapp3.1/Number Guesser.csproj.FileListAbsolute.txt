@@ -1,0 +1,11 @@
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.exe
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.deps.json
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.runtimeconfig.json
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.runtimeconfig.dev.json
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.dll
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.pdb
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.csprojAssemblyReference.cache
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.AssemblyInfoInputs.cache
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.AssemblyInfo.cs
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.dll
+C:\Users\jsnelson\Desktop\codeFiles\C-sharp-projects\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.pdb
